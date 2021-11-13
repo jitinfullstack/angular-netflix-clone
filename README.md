@@ -1,3 +1,9 @@
+# Demo Link
+
+https://jitin-angular-netflix-clone.netlify.app/
+
+Note: If you visit demo for the first time and alll movies are not loaded then please reload the page and it's works. 
+
 # NetflixClone
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.2.
