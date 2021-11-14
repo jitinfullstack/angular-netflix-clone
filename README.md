@@ -6,7 +6,7 @@ Note: If you visit demo for the first time and alll movies are not loaded then p
 
 ## Screenshot
 
-https://github.com/jitinfullstack/angular-netflix-clone/blob/master/Netflix-Clone.png
+![Netflix-Clone](https://user-images.githubusercontent.com/93995641/141672154-3e8c8849-1b71-4d7b-93ff-e7fb0eb3dce6.png)
 
 # NetflixClone
 
